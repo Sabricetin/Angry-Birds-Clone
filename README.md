@@ -31,3 +31,4 @@ Bu kod, oyunun temel sahnesini oluşturur ve tüm oyun mekaniğini yönetir.
 - **Kutular:** Oyuncunun kuşla vurmayı hedeflediği nesnelerdir. Fiziksel özellikleri ayarlanmış ve sahneye eklenmiştir.
 - **Skor:** Oyuncunun başarısını gösterir. Her çarpışma durumunda güncellenir.
 
+![Angry-Bird-Clone](https://github.com/user-attachments/assets/0f36aa0c-7e28-4bc5-ad09-cbf3d74037ab)
